@@ -1,4 +1,4 @@
-public class problem2 {
+public class leetcode1880 {
 
     public static void main(String[] args) {
 
