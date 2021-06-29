@@ -1,3 +1,5 @@
+package TheJourneyBegins;
+
 public class leetcode1880 {
 
     public static void main(String[] args) {

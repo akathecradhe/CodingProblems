@@ -1,3 +1,5 @@
+package TheJourneyBegins;
+
 import java.util.ArrayList;
 
 //1480. Running Sum of 1d Array

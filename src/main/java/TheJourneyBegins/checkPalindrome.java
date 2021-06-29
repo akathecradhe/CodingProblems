@@ -1,3 +1,5 @@
+package TheJourneyBegins;
+
 public class checkPalindrome {
 
 

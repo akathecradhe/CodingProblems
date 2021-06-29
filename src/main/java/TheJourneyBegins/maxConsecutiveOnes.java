@@ -1,3 +1,5 @@
+package TheJourneyBegins;
+
 public class maxConsecutiveOnes {
 
     public int findMaxConsecutiveOnes(int[] nums) {
